@@ -1,0 +1,6 @@
+env/
+__pycache__
+Example/
+new
+actions.py 
+config.py
